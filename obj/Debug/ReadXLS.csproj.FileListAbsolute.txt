@@ -1,0 +1,10 @@
+C:\Users\Thiago\Documents\GitHub\ReadXLS\ReadXLS\bin\Debug\ReadXLS.exe.config
+C:\Users\Thiago\Documents\GitHub\ReadXLS\ReadXLS\bin\Debug\ReadXLS.exe
+C:\Users\Thiago\Documents\GitHub\ReadXLS\ReadXLS\bin\Debug\ReadXLS.pdb
+C:\Users\Thiago\Documents\GitHub\ReadXLS\ReadXLS\obj\Debug\ReadXLS.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Documents\GitHub\ReadXLS\ReadXLS\obj\Debug\ReadXLS.Form1.resources
+C:\Users\Thiago\Documents\GitHub\ReadXLS\ReadXLS\obj\Debug\ReadXLS.Properties.Resources.resources
+C:\Users\Thiago\Documents\GitHub\ReadXLS\ReadXLS\obj\Debug\ReadXLS.csproj.GenerateResource.cache
+C:\Users\Thiago\Documents\GitHub\ReadXLS\ReadXLS\obj\Debug\ReadXLS.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\GitHub\ReadXLS\ReadXLS\obj\Debug\ReadXLS.exe
+C:\Users\Thiago\Documents\GitHub\ReadXLS\ReadXLS\obj\Debug\ReadXLS.pdb
